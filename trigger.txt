@@ -1,1 +1,2 @@
-wiznote/wizserver@sha256:6f68b50e683230b9f6b756e9283043d57231468f4cc4d97550da9d03d9ffeb0f registry.cn-beijing.aliyuncs.com/aly-pub/wizserver:1.0.31
+golang:1.13-rc-alpine3.10 registry.cn-beijing.aliyuncs.com/aly-pub/golang:1.13-rc-alpine3.10
+alpine:3.10 registry.cn-beijing.aliyuncs.com/aly-pub/alpine:3.10
