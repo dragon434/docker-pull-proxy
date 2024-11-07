@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.20.3 registry.cn-beijing.aliyuncs.com/aly-pub/portainer-ce:2.20.3
+elasticdump/elasticsearch-dump:latest registry.cn-beijing.aliyuncs.com/aly-pub/elasticsearch-dump:latest
