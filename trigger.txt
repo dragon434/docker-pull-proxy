@@ -1,1 +1,1 @@
-vulhub/weblogic:10.3.6.0-2017 registry.cn-beijing.aliyuncs.com/mysecurity/vulhub/weblogic:10.3.6.0-2017
+vulhub/weblogic:10.3.6.0-2017 registry.cn-beijing.aliyuncs.com/mysecurity/weblogic:10.3.6.0-2017
