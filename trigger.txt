@@ -1,1 +1,7 @@
-vulhub/weblogic:10.3.6.0-2017 registry.cn-beijing.aliyuncs.com/mysecurity/weblogic:10.3.6.0-2017
+langgenius/dify-api:0.15.3 registry.cn-beijing.aliyuncs.com/aly-pub/dify-api:0.15.3
+langgenius/dify-web:0.15.3 registry.cn-beijing.aliyuncs.com/aly-pub/dify-web:0.15.3
+langgenius/dify-sandbox:0.2.10 registry.cn-beijing.aliyuncs.com/aly-pub/dify-sandbox:0.2.10
+ubuntu/squid:latest registry.cn-beijing.aliyuncs.com/aly-pub/squid:latest
+postgres:15-alpine registry.cn-beijing.aliyuncs.com/aly-pub/postgres:15-alpine
+redis:6-alpine registry.cn-beijing.aliyuncs.com/aly-pub/redis:6-alpine
+nginx:latest registry.cn-beijing.aliyuncs.com/aly-pub/nginx:latest
